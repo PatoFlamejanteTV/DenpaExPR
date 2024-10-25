@@ -1,14 +1,14 @@
 ![Supported Platforms](https://img.shields.io/badge/supported%20platforms-windows%2C%20linux-blue)
-![GitHub Commits Since Latest (By Date)](https://img.shields.io/github/commits-since/UmbratheUmbreon/PublicDenpaEngine/latest)
-[![Repo Size](https://img.shields.io/github/repo-size/acc0untz0138/DenpaEx)](https://github.com/justAMZ/DenpaEx)
-[![GitHub Issues](https://img.shields.io/github/issues/acc0untz0138/DenpaEx)](https://github.com/justAMZ/DenpaEx/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/UmbratheUmbreon/PublicDenpaEngine)](https://github.com/UmbratheUmbreon/PublicDenpaEngine/pulls)
-![GitHub All Downloads](https://img.shields.io/github/downloads/justAMZ/DenpaEx/total)
-![GitHub Latest (Including Pre-releases)](https://img.shields.io/github/v/release/UmbratheUmbreon/PublicDenpaEngine?include_prereleases&label=latest%20version)
+![GitHub Commits Since Latest (By Date)](https://img.shields.io/github/commits-since/JordanSantiagoYT/DenpaExPR/latest)
+[![Repo Size](https://img.shields.io/github/repo-size/JordanSantiagoYT/DenpaExPR)](https://github.com/JordanSantiagoYT/DenpaExPR)
+[![GitHub Issues](https://img.shields.io/github/issues/JordanSantiagoYT/DenpaExPR)](https://github.com/justAMZ/JordanSantiagoYT/DenpaExPR)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/JordanSantiagoYT/DenpaExPR)](https://github.com/JordanSantiagoYT/DenpaExPR/pulls)
+![GitHub All Downloads](https://img.shields.io/github/downloads/JordanSantiagoYT/DenpaExPR/total)
+![GitHub Latest (Including Pre-releases)](https://img.shields.io/github/v/release/JordanSantiagoYT/DenpaExPR?include_prereleases&label=latest%20version)
 [![Denpa Engine Discord](https://img.shields.io/discord/993277169876873326?label=discord)](https://discord.gg/BFaMfmTNaa)
 [![DenpaEx Discord](https://img.shields.io/discord/993277169876873326?label=DenpaEx%20Discord)](https://discord.gg/9yzdrdDjdB)
 
-[![Star History Chart](https://api.star-history.com/svg?repos=UmbratheUmbreon/PublicDenpaEngine&type=Timeline)](https://star-history.com/#UmbratheUmbreon/PublicDenpaEngine&Timeline)
+[![Star History Chart](https://api.star-history.com/svg?repos=JordanSantiagoYT/DenpaExPR&type=Timeline)](https://star-history.com/#JordanSantiagoYT/DenpaExPR&Timeline)
 
 # Friday Night Funkin': DenpaEx
 
